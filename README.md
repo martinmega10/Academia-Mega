@@ -2,7 +2,9 @@
 
 # Academia-Mega
 
-# [sesiones](https://tecmx-my.sharepoint.com/:f:/g/personal/oscar_antonio_tec_mx/EoHbETLJqYJFns2vk7rMmkQBcqvEdfpOpxmB-tR0VoGgSw?e=TZQFBz)
+# [Link de las sesiones](https://tecmx-my.sharepoint.com/:f:/g/personal/oscar_antonio_tec_mx/EoHbETLJqYJFns2vk7rMmkQBcqvEdfpOpxmB-tR0VoGgSw?e=TZQFBz)
+
+# [Estructura del proyecto](https://github.com/Liderly/Academia-Mega/tree/master)
 
 ## Descripción General
 
